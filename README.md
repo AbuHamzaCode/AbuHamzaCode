@@ -1,4 +1,4 @@
-<p align="center"><a href="http://islam-ataballyyev.com/"><img width="80%" height="50px" alt="Hamza" src="./muslim-icon.jpg" /></a></p>
+<p align="center"><a href="http://islam-ataballyyev.com/"><img width="70px" height="70px" alt="Hamza" src="./muslim-icon.jpg" /></a></p>
 
 <br />
 
