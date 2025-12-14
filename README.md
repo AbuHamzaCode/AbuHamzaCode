@@ -6,7 +6,7 @@ I'm a Software Engineer.
 
 **About me**
 
-- 💼 Motivated Software Developer open for new challange
+- 💼 Motivated Software Developer
 
 - 📈 Constructed CRM systems, E-commercy, Marketplace, Landings and other
 
